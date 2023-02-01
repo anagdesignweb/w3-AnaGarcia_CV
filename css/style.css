@@ -1,0 +1,137 @@
+
+/* fuentes: 
+font-family: 'Anek Tamil', sans-serif;
+font-family: 'Chakra Petch', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Quantico', sans-serif; */
+
+/* nueva paleta de colores para el CV */
+.color1{
+    color: #010059;
+}
+.color2{
+    color: #107595;
+}
+.color3{
+    color: #FDBFB3;
+}
+.color4{
+    color: #FCF594;
+}
+
+.color5{
+    color: #fd999d;
+}
+.color6{
+    color: #FAE3D9;
+}
+.color7{
+    color: #BBDED6;
+}
+.color8{
+    color: #61C0BF;
+}
+.background-color1{
+    background-color: #010059;
+}
+.background-color2{
+    background-color: #107595;
+}
+.background-color3{
+    background-color: #FDBFB3;
+}
+.background-color4{
+    background-color: #FCF594;
+}
+.background-color5{
+    background-color: #FFB6B9;
+}
+.background-color6{
+    background-color: #FAE3D9;
+}
+.background-color7{
+    background-color: #BBDED6;
+}
+.background-color8{
+    background-color: #61C0BF;
+}
+
+html, body {
+    font-family: 'Anek Tamil', sans-serif;
+    font-size: 17px;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+}
+h5{
+    font-size: 1.4rem;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h6{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #107595;
+}
+
+ul{
+    border: 1px solid red;
+    list-style-type: none;
+}
+li{
+    padding: 5px;
+}
+#formacioncompl{
+    margin-bottom: 15px;
+    background-color:#ecf8f5;
+    border-radius: 5px;
+}
+#formacioncompl h6{
+
+font-family: 'Chakra Petch', sans-serif;
+font-size: 1.2rem;
+}
+#formacioncompl p{
+font-style: italic;
+}
+.cajas{
+    border: 5px solid #FFB6B9;
+}
+input, textarea{
+    background-color: rgb(243, 242, 242);
+}
+i{
+    color: #FFB6B9;
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container {
+  padding: 2px 16px;
+}
+#hobbies img{
+    width: 60px;
+}
+#hobbies{
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+   color: #cc5c60;
+}
+a:hover{
+color: #FFB6B9;
+}
+.titulohabilidades{
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
